@@ -14,7 +14,7 @@ So I decided to make use of this data and create some insights for the same.
 
 📊 Data Collection - Tracked whole match concurrency after every over / any instance like wicket, six, half century / DRS and many more we have maintained an excel sheet for same where we captured 4 parameters i.e time, over, instance & concurrency.
 
-🔄 Data Transformation: Firstly I fixed the instances where there were same instance but the text written was in different format like for example for 4 runs it was written in multiple formats 
+🔄 Data Transformation - Firstly I fixed the instances where there were same instance but the text written was in different format like for example for 4 runs it was written in multiple formats 
 1st - 4 runs
 2nd - four runs
 3rd - four
