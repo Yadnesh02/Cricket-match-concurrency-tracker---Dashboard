@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Since we are in a very early stage at JioCinema we just want to keep our self prepare for the volume of viewers watching a big event like world cup so we (Junior analyst) were told to keep a track on concurrency for T20 WC 2024 Final - IND v SA match and track concurrency of same since me and my colleague both of us were gathering various data like concurrency after every 10 mins / after particular instance like wicket, six, half century, last 3 overs, while trophy handover and many more such key instances.
+Since we are in a very early stage at JioCinema we just want to keep our self prepare for the volume of viewers watching a big event like world cup so we (Junior analyst) were told to keep a track on concurrency for T20 WC 2024 Final - IND v SA match and track concurrency of same since me and my colleague both of us were gathering various data like concurrency after every over, 10 mins interval / after particular instance like wicket, six, half century, last 3 overs, & at the time of trophy handover.
 
 So I decided to make use of this data and create some insights for the same.
 
